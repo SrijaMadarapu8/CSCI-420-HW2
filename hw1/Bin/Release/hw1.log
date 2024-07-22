@@ -1,0 +1,17 @@
+﻿  hw1.cpp
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(89,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(90,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1092,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1092,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1104,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1105,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1106,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1120,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1121,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\hw1.cpp(1122,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\Bin\Release\hw1.exe

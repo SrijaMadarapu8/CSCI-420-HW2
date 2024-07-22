@@ -1,0 +1,2 @@
+C:\GLP\assign1_coreOpenGL_starterCode-v2 (1)\assign1_coreOpenGL_starterCode\hw1\Bin\Release\hw1.exe
+C:\GLP\assign2\assign1_coreOpenGL_starterCode\hw1\Bin\Release\hw1.exe
